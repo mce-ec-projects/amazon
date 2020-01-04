@@ -1,2 +1,3 @@
 mounika
-this is cript file
+this is script file
+updating the script file
